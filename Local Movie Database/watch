@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Watchlist</title>
+</head>
+<body>
+<table border = 1>
+<tr>
+<td>Title</td>
+<td>Genre</td>
+<td>Year</td>
+<td>Likes</td>
+<td>Youtube link</td>
+</tr>
+<tr><td>We are your friends</td>
+<td>Drama</td>
+<td>2010</td>
+<td>235</td>
+<td><a href =https://www.youtube.com/watch?v=gZzAeYWXFpk> Trailer</a></td>
+</tr><tr><td>Inception</td>
+<td>Drama</td>
+<td>2009</td>
+<td>3686</td>
+<td><a href =https://www.youtube.com/watch?v=66TuSJo4dZM> Trailer</a></td>
+</tr></table>
+</body>
+</html>
